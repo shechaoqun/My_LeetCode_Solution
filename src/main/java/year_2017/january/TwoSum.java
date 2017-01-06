@@ -1,17 +1,11 @@
 package year_2017.january;
 
-import com.sun.deploy.util.ArrayUtil;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-
 /**
  * Created by chaoqunshe on 1/5/17.
  * <p>
  * Given nums = [2, 7, 11, 15], target = 9,
  * <p>
- * Because nums[0] + nums[1] = 2 + 7 = 9,
+ * Because nums[0] + nums[1]= 2 + 7 = 9,
  * return [0, 1].
  */
 public class TwoSum {
